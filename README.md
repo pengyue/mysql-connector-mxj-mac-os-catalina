@@ -15,4 +15,3 @@ After the jar is created, you can copy it to your mvn setting folder, which shou
 
 ```~/.m2/repository/mysql/mysql-connector-mxj-db-files/5.0.12/```
 
-Otherwise you can download the artifact mysql-connector-mxj-db-files-5.0.12.jar directly and copy it to the folder above.
