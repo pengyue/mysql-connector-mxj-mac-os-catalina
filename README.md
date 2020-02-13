@@ -7,7 +7,7 @@ The mysql-connector-mxj has only 32 bit executables, however MacOS Catalina only
 
 This repository adds the 64 executables of mysql and mysqld, so that mysql-connector-mxj could works on MacOS Catalina.
 
-You can clone the repo and run the command below
+You can clone the repo and run the command below inside of the repo
 
 ```jar cvf mysql-connector-mxj-db-files-5.0.12.jar .```
 
